@@ -1,4 +1,4 @@
-# JARVIS V2
+# JBOT  V2
 <p align="center">
 <a href="#"><img title="SPARROW OFC" src="https://img.shields.io/badge/DOCEDITOR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
